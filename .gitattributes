@@ -1,0 +1,15 @@
+# Assurez-vous que les fichiers Python utilisent des fins de ligne LF
+*.py text eol=lf
+*.ipynb text eol=lf
+
+# Assurez-vous que les fichiers XML utilisent des fins de ligne LF
+*.xml text eol=lf
+
+# Assurez-vous que les fichiers texte utilisent des fins de ligne LF
+*.txt text eol=lf
+
+# Forcer LF pour les fichiers de configuration spécifiques
+*.prefs.xml text eol=lf
+pom.xml text eol=lf
+persistence.xml text eol=lf
+web.xml text eol=lf
